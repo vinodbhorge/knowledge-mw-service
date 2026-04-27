@@ -28,7 +28,7 @@
     "express": "^4.21.2",
     "express-cassandra": "2.1.0",
     "express-http-proxy": "^2.0.0",
-    "fs-extra": "^11.2.0",
+    "fs-extra": "^11.3.4",
     "https": "^1.0.0",
     "joi": "^17.13.3",
     "jsonwebtoken": "^9.0.2",
