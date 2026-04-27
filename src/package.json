@@ -19,7 +19,7 @@
   "dependencies": {
     "@project-sunbird/telemetry-sdk": "0.0.9",
     "async": "^3.2.5",
-    "azure-storage": "2.7.0",
+    "azure-storage": "2.10.7",
     "body-parser": "^1.20.2",
     "cassandra-driver": "^4.7.2",
     "compression": "^1.7.4",
@@ -49,7 +49,7 @@
     "sb-config-util": "file:libs/sb-config-util",
     "sb-http-util": "file:libs/sb-http-util",
     "string-to-stream": "^3.0.1",
-    "underscore": "^1.13.6",
+    "underscore": "^1.13.8",
     "url-metadata": "^3.0.0",
     "uuid": "^11.0.3",
     "zip-folder": "1.0.0"
