@@ -20,7 +20,7 @@
     "@project-sunbird/telemetry-sdk": "0.0.9",
     "async": "^3.2.5",
     "azure-storage": "2.7.0",
-    "body-parser": "^1.20.2",
+    "body-parser": "^2.2.2",
     "cassandra-driver": "^4.7.2",
     "compression": "^1.7.4",
     "date-fns": "^4.1.0",
