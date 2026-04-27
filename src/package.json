@@ -49,7 +49,7 @@
     "sb-config-util": "file:libs/sb-config-util",
     "sb-http-util": "file:libs/sb-http-util",
     "string-to-stream": "^3.0.1",
-    "underscore": "^1.13.6",
+    "underscore": "^1.13.8",
     "url-metadata": "^3.0.0",
     "uuid": "^11.0.3",
     "zip-folder": "1.0.0"
